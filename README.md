@@ -10,7 +10,7 @@ It allows you to create, save, and delete notes directly in the browser using lo
 
 ---
 
-🚀 Features
+# 🚀 Features
 
 ✏️ Add Notes – Create unlimited notes with one click
 
@@ -24,7 +24,7 @@ It allows you to create, save, and delete notes directly in the browser using lo
 
 ---
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 HTML5
 
@@ -36,13 +36,13 @@ LocalStorage
 
 ---
 
-🎥 Demo
+# 🎥 Demo
 
 ![Notes App Demo](./gif/Notes-App.gif)
 
 ---
 
-📌 How It Works
+# 📌 How It Works
 
 Click on Add Note button ➕ to create a new note.
 
@@ -56,7 +56,7 @@ All saved notes stay even after refreshing the page.
 
 ---
 
- 🧑‍💻 Developer
+# 🧑‍💻 Developer
 
 Developed by Asim Mir  
 [GitHub: asim249](https://github.com/asim249)
